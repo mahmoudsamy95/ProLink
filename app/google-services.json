@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "771478021018",
+    "firebase_url": "https://prolink-bc9f5.firebaseio.com",
+    "project_id": "prolink-bc9f5",
+    "storage_bucket": "prolink-bc9f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771478021018:android:45c9e3d935bb6269",
+        "android_client_info": {
+          "package_name": "com.example.ea.prolink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771478021018-76v5t29h9d28s7d5hhm33boa0v3sunac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ea.prolink",
+            "certificate_hash": "f3e68b47099b7610486ce6464d9c07bc74b24ed7"
+          }
+        },
+        {
+          "client_id": "771478021018-t46rgs6mqmmdqs6m3mbksg8c3ohmj7pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGRiS4gR5BgvDPWe7upQL4uT3CPFjJnvI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771478021018-t46rgs6mqmmdqs6m3mbksg8c3ohmj7pq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

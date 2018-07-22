@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#78acb2</color>
+    <color name="colorPrimary">#78acb2</color>
+    <color name="colorPrimaryDark">#377980</color>
+    <color name="green">#2E8B57</color>
+    <color name="red">#DC143C</color>
+
+    <color name="backgroundfragment">#ffbde3</color>
+    <color name="pink">#F9457E</color>
+    <color name="whiteBg">#fff</color>
+    <color name="department">#012639</color>
+    <color name="level">#012639</color>
+    <color name="headings">#2e8ec6</color>
+    <color name="solidCircle">#80FFFFFF</color>
+    <color name="circleBorder">#30FFFFFF</color>
+    <color name="gradEnd">#69cfda</color>
+    <color name="gradStart">#377980</color>
+    <color name="departmentBg">#3fa9b1</color>
+    <color name="followingBg">#49BEFF</color>
+    <color name="grey">#E5E5E5</color>
+
+
+
+</resources>
